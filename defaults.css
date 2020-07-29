@@ -228,6 +228,10 @@ ul {
   background-color: #7E4C74;
 }
 
+#black-mode{
+  background-color: #010302;
+}
+
 #settings-note{
   font-size: 12px;
   font-style: italic;
